@@ -30,7 +30,7 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["sql", "python", "Data analysis", "linux", "Git/github", "C programming"];
+const skillsList = ["Sql", "Python", "Data analysis", "Web scraping", "Git", "Web design"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -38,7 +38,7 @@ const skillsList = ["sql", "python", "Data analysis", "linux", "Git/github", "C 
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about AI and i love using data to create solutions.";
 
 const About = () => {
   return (

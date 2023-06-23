@@ -26,8 +26,8 @@ import "./styles.css";
 const siteProps = {
   name: "MAGBUWE Vera",
   title: "Data Scientist",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  email: "veratinous@gmail.com",
+  gitHub: "www.github.com/veratinous",
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",
